@@ -1,0 +1,139 @@
+.top-container {
+  background-color: #EAF6F6;
+  text-align: center;
+}
+
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+
+h1 {
+  font-size: 5.625rem;
+  color: #66BFBF;
+  margin: 0px 0px 0px 0px;
+  padding-top: 160px;
+  font-family: "Sacramento", cursive;
+}
+h2{
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-family: "Montserrat", sans-serif;
+}
+h3{
+  color: #11999E;
+  font-family: "Montserrat", sans-serif;
+}
+a{
+  color: #11999E;
+}
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.MyProfile{
+  border-radius: 100%;
+  height: 200px;
+  width: 200px;
+}
+.first-skill{
+  border-radius: 100%;
+  width: 200px;
+  height: 200px;
+  float: left;
+  margin-right: 30px;
+}
+.second-skill{
+  border-radius: 100%;
+  height: 200px;
+  width: 200px;
+  float: right;
+  margin-left: 30px;
+}
+.MyPosition{
+  font-weight: normal;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.profile{
+  margin: 100px auto 100px auto;
+}
+.contact-me{
+  margin: 100px auto 100px auto;
+}
+.intro{
+  color: #40514E;
+  line-height: 2;
+}
+hr{
+  background-color: inherit;
+  border-style: none;
+  border-top-style: dotted;
+  width: 3%;
+  border-color: grey;
+  border-width: 5px;
+}
+.top-container{
+  margin: auto auto 100px auto;
+}
+.rule{
+  margin: 100px auto 100px auto;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  height: 180px;
+  width: 100%;
+}
+.footer-link{
+  position: relative;
+  top: 70px;
+  text-decoration: none;
+}
+.license{
+  color: #EAF6F6;
+  position: relative;
+  top: 80px;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+.one{
+  margin-right: 25px;
+}
+.two{
+  margin-left: 25px;
+}
+.btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: 'Montserrat', sans-serif;
+  color: #EAF6F6;
+  font-size: 25px;
+  background: #11999E;
+  padding: 20px 27px 20px 27px;
+  text-decoration: none;
+}
+.btn:hover {
+  background: #155959;
+  background-image: -webkit-linear-gradient(top, #155959, #155959);
+  background-image: -moz-linear-gradient(top, #155959, #155959);
+  background-image: -ms-linear-gradient(top, #155959, #155959);
+  background-image: -o-linear-gradient(top, #155959, #155959);
+  background-image: linear-gradient(to bottom, #155959, #155959);
+  text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6
+}
